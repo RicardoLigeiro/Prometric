@@ -18,6 +18,6 @@
         /// <summary>
         ///     Perimeter
         /// </summary>
-        public string Perimeter { get; }
+        public double Perimeter { get; }
     }
 }
